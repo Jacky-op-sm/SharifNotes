@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>zarrin</Author>
+  <Description>Programming: Mohammad Seiflo, Ahmad DasZarrin</Description>
+  <LastAuthor>zarrin</LastAuthor>
+  <Created>2009-09-15T08:08:45Z</Created>
+  <Company>navasanpardaz</Company>
+  <HyperlinkBase>http://www.navasanpardaz.com</HyperlinkBase>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8190</WindowHeight>
+  <WindowWidth>14955</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>300</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Chanal_1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="13" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="65.25" ss:Span="2"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="s63"><Data ss:Type="String">Chanal 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">no.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Voltage</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Current</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power Factor</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Reactive Power</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Date &amp; Time</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7191039999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">1.8200999999999998E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0392999999999997E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.397922</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:21:59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">21.315552</Data></Cell>
+    <Cell><Data ss:Type="Number">2.7542000000000001E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35016900000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0.59645599999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">31.448996999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3723000000000003E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.66411200000000004</Data></Cell>
+    <Cell><Data ss:Type="Number">0.62619599999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">41.766227999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">3.9452000000000001E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1600010000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0.70399299999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">56.97963</Data></Cell>
+    <Cell><Data ss:Type="Number">4.7794000000000003E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.908909</Data></Cell>
+    <Cell><Data ss:Type="Number">0.70096199999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">68.020515000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">5.4530000000000002E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">2.6022020000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0.70155599999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">77.854545999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2659999999999993E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">3.3475450000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68619799999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7" ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">92.911490999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">7.9560000000000006E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">4.6805709999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">0.633189</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">102.87417600000001</Data></Cell>
+    <Cell><Data ss:Type="Number">9.4560000000000009E-3</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3651879999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4874910000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">113.857765</Data></Cell>
+    <Cell><Data ss:Type="Number">0.32206800000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">-6.8556229999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">-0.18695500000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:29</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Chanal_2">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="12" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="65.25" ss:Span="2"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="s63"><Data ss:Type="String">Chanal 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">no.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Voltage</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Current</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power Factor</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Reactive Power</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Date &amp; Time</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">19.700866999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3799999999999999E-4</Data></Cell>
+    <Cell><Data ss:Type="Number">-2.0699999999999999E-4</Data></Cell>
+    <Cell><Data ss:Type="Number">-7.5967999999999994E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">46.086956000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">6.8999999999999997E-5</Data></Cell>
+    <Cell><Data ss:Type="Number">-3.4299999999999999E-4</Data></Cell>
+    <Cell><Data ss:Type="Number">-0.107865</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">62.891540999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">84.733329999999995</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">109.678123</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">130.66297900000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">151.01144400000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:22:50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">182.58038300000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">-1.846E-3</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">202.365173</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">226.10398900000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">14/03/04 15:23:30</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Chanal_3">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="65.25" ss:Span="2"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="s63"><Data ss:Type="String">Chanal 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">no.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Voltage</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Current</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power Factor</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Reactive Power</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Date &amp; Time</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Chanal_4">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="65.25" ss:Span="2"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="s63"><Data ss:Type="String">Chanal 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">no.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Voltage</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Current</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Power Factor</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Reactive Power</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Date &amp; Time</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
